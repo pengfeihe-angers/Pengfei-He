@@ -16,7 +16,7 @@ Phone: (+33) 661582404
 <tr>
 <td><ol>
 
-<li>Pengfei He, Jin-Kao Hao. Memetic search for the minmax multiple traveling salesman problem with single and multiple depots. <i>European Journal of Operational Research</i>. Accepted.</li>
+<li>Pengfei He, Jin-Kao Hao. [Memetic search for the minmax multiple traveling salesman problem with single and multiple depots](https://www.sciencedirect.com/science/article/pii/S0377221722008669). <i>European Journal of Operational Research</i>. Accepted.</li>
 <li>Pengfei He, Jin-Kao Hao. General edge assembly crossover driven memetic search for split delivery vehicle routing. <i>Transportation Science</i>, September, 2022. Accepted  </li>
 <li>Pengfei He, Jin-Kao Hao. Hybrid search with neighborhood reduction for the multiple traveling salesman problem. <i>Computers & Operations Research</i>, 142 (2022): 105726.</li>
 <li>Pengfei He, Jin-Kao Hao, Qinghua Wu. Grouping memetic search for the colored traveling salesmen problem. <i>Information Sciences</i>, 570 (2021): 689-707.</li>
