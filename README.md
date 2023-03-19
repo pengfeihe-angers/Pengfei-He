@@ -10,7 +10,8 @@ Phone: (+33) 661582404
 >Post doctor at Unviersity of Angers from 11/2022
 
 <font size=5>Honor & Award</font>
->Second place at the [12th DIMACS Implementation Challenge on Vehicle Routing](http://dimacs.rutgers.edu/programs/challenge/vrp/) – [SDVRP Track](http://dimacs.rutgers.edu/programs/challenge/vrp/vrpsd/)
+>Second place at the [12th DIMACS Implementation Challenge on Vehicle Routing](http://dimacs.rutgers.edu/programs/challenge/vrp/) – [SDVRP Track](http://dimacs.rutgers.edu/programs/challenge/vrp/vrpsd/) 
+>My thesis won the third place at the [Prix GT2L 2023](https://perso.isima.fr/~lacomme/GT2L/these_2023/accueil.php)
 
 <font size=5>Selected publications</font>(See also [google scholar](https://scholar.google.com/citations?user=cecmh5gAAAAJ&hl=en))
 <font size=5>Journal Papers</font>
