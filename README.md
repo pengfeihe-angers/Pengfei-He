@@ -7,7 +7,7 @@ Phone: (+33) 661582404
 >Combinatorial optimization; Vehicle routing; System engineering; Metaheuristics; Genetic algorithms.
 
 <font size=5>Working experience</font>
->Post doctor at Unviersity of Angers from 11/2022
+>Post doctor at Unviersity of Angers 11/2022-07/2023
 
 <font size=5>Honor & Award</font>
 >Second place at the [12th DIMACS Implementation Challenge on Vehicle Routing](http://dimacs.rutgers.edu/programs/challenge/vrp/) – [SDVRP Track](http://dimacs.rutgers.edu/programs/challenge/vrp/vrpsd/)    
