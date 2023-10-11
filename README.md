@@ -7,6 +7,7 @@ Phone: (+33) 661582404
 >Combinatorial optimization; Vehicle routing; System engineering; Metaheuristics; Genetic algorithms.
 
 <font size=5>Working experience</font>
+>Associate Research Fellow, Southeast University, School of Automation from September 2023
 >Post doctor at Unviersity of Angers 11/2022-07/2023
 
 <font size=5>Honor & Award</font>
@@ -19,7 +20,7 @@ Phone: (+33) 661582404
 <tr>
 <td><ol>
 
-<li>Pengfei He, Jin-Kao Hao, Qinghua Wu. <a href="https://onlinelibrary.wiley.com/doi/10.1002/net.22167?af=R">Hybrid genetic algorithm for undirected traveling salesman problems with profits</a>. <i><a href="https://onlinelibrary.wiley.com/journal/10970037">Networks</a></i>. Accepted, 2023.  </li>
+<li>Pengfei He, Jin-Kao Hao, Qinghua Wu. <a href="https://onlinelibrary.wiley.com/doi/10.1002/net.22167?af=R">Hybrid genetic algorithm for undirected traveling salesman problems with profits</a>. <i><a href="https://onlinelibrary.wiley.com/journal/10970037">Networks</a></i>. 82(3)(2023): 189-221.  </li>
 <li>Pengfei He, Jin-Kao Hao. <a href="https://www.sciencedirect.com/science/article/pii/S0377221722008669">Memetic search for the minmax multiple traveling salesman problem with single and multiple depots</a>. <i><a href="https://www.sciencedirect.com/journal/european-journal-of-operational-research">European Journal of Operational Research</a></i>. 307(3)(2023):1055-1070.  </li>
 <li>Pengfei He, Jin-Kao Hao. <a href="https://pubsonline.informs.org/doi/abs/10.1287/trsc.2022.1180">General edge assembly crossover driven memetic search for split delivery vehicle routing</a>. <i><a href="https://pubsonline.informs.org/journal/trsc">Transportation Science</a></i>, 57(2) (2023): 482-511.  </li>
 <li>Pengfei He, Jin-Kao Hao. <a href="https://www.sciencedirect.com/science/article/pii/S0305054822000296">Hybrid search with neighborhood reduction for the multiple traveling salesman problem</a>. <i><a href="https://www.sciencedirect.com/journal/computers-and-operations-research">Computers & Operations Research</a></i>, 142 (2022): 105726.</li>
