@@ -7,7 +7,7 @@ Phone: (+33) 661582404
 >Combinatorial optimization; Vehicle routing; System engineering; Metaheuristics; Genetic algorithms.
 
 <font size=5>Working experience</font>
->Associate Research Fellow, Southeast University, School of Automation from September 2023
+>Associate Research Fellow, Southeast University, School of Automation from September 2023  
 >Post doctor at Unviersity of Angers 11/2022-07/2023
 
 <font size=5>Honor & Award</font>
