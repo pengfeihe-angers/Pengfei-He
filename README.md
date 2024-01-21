@@ -1,13 +1,11 @@
 
-Post doctor at [LERIA](https://leria.univ-angers.fr/), Unviersity of Angers, France<br>
+Associate Research Fellow, School of Automation, Southeast University, China 08/2023
 E-mail: pengfeihe606[at]gmail.com<br>
-Phone: (+33) 661582404
 
 <font size=5>Research Interests</font>
 >Combinatorial optimization; Vehicle routing; System engineering; Metaheuristics; Genetic algorithms.
 
 <font size=5>Working experience</font>
->Associate Research Fellow, Southeast University, School of Automation 09/2023  
 >Post doctor at Unviersity of Angers 11/2022-07/2023
 
 <font size=5>Honor & Award</font>
