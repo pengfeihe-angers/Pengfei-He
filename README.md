@@ -6,6 +6,7 @@ E-mail: pengfeihe606[at]gmail.com<br>
 <img src=https://q3.itc.cn/q_70/images03/20240617/46ade073abe0462ebc2d51550c15251f.jpeg width = 20% />
 </div>
 
+<div style="float:left">
 <font size=5>Research Interests</font>
 >Combinatorial optimization; Vehicle routing; System engineering; Metaheuristics; Genetic algorithms.
 
@@ -42,5 +43,7 @@ E-mail: pengfeihe606[at]gmail.com<br>
 <font size=5>Education</font>
 >Ph.D. in University of Angers, France, 10/2022.  Supervised by [Prof. Jin-Kao Hao.](https://leria-info.univ-angers.fr/~jinkao.hao/#Publi) [Here](https://github.com/pengfeihe-angers/thesis/blob/main/thesis_Pengfei%20He__final.pdf) is my thesis.  
 >M.A. in Nanjing Agricultural Unviersity, China, 6/2019  
->B.A. in Nanjing Agricultural Unviersity, China, 6/2016  
+>B.A. in Nanjing Agricultural Unviersity, China, 6/2016
+
+</div>
        
