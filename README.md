@@ -1,12 +1,12 @@
-
-Associate Research Fellow, School of Automation, Southeast University, China 08/2023  
-E-mail: pengfeihe606[at]gmail.com<br>
-
 <div>
 <img align=right src=https://q3.itc.cn/q_70/images03/20240617/46ade073abe0462ebc2d51550c15251f.jpeg width = 20% />
 </div>
 
 <div style="float:left">
+
+Associate Research Fellow, School of Automation, Southeast University, China 08/2023  
+E-mail: pengfeihe606[at]gmail.com<br>
+
 <font size=5>Research Interests</font>
 >Combinatorial optimization; Vehicle routing; System engineering; Metaheuristics; Genetic algorithms.
 
