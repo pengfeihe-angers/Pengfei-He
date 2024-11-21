@@ -1,5 +1,5 @@
 <div>
-<img align=right src=https://q3.itc.cn/q_70/images03/20240617/46ade073abe0462ebc2d51550c15251f.jpeg width = 20% />
+<img align=right src=https://q3.itc.cn/q_70/images03/20240617/46ade073abe0462ebc2d51550c15251f.jpeg width = 30% />
 </div>
 
 <div style="float:left">
