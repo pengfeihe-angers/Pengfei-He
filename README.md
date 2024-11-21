@@ -3,7 +3,7 @@ Associate Research Fellow, School of Automation, Southeast University, China 08/
 E-mail: pengfeihe606[at]gmail.com<br>
 
 <div align=right>
-<img src=https://q3.itc.cn/q_70/images03/20240617/46ade073abe0462ebc2d51550c15251f.jpeg style="zoom:20%;" />
+<img src=https://q3.itc.cn/q_70/images03/20240617/46ade073abe0462ebc2d51550c15251f.jpeg width = 20% />
 </div>
 
 <font size=5>Research Interests</font>
