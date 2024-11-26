@@ -1,8 +1,3 @@
-<div>
-<img align=right src=https://q3.itc.cn/q_70/images03/20240617/46ade073abe0462ebc2d51550c15251f.jpeg width = 30% />
-</div>
-
-<div style="float:left">
 
 Associate Research Fellow, School of Automation, Southeast University, China 08/2023  
 E-mail: pengfeihe606[at]gmail.com<br>
@@ -47,5 +42,5 @@ E-mail: pengfeihe606[at]gmail.com<br>
 >M.A. in Nanjing Agricultural Unviersity, China, 6/2019  
 >B.A. in Nanjing Agricultural Unviersity, China, 6/2016
 
-</div>
+
        
