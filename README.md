@@ -17,6 +17,7 @@ E-mail: pengfeihe606[at]gmail.com<br>
 <table>
 <tr>
 <td><ol>
+<li>Pengfei He, Wenchong Chen, Qinghua Wu, Fengjun Xiao. (2025). Capacitated profitable tour problem with cross-docking. Computers & Operations Research, Accepted. </li>
 <li>Pengfei He, Jin-Kao Hao, Jinhui Xia. (2024). Learning-guided iterated local search for the minmax multiple traveling salesman problem. arXiv preprint arXiv:2403.12389.  </li>
 <li>Pengfei He, Jin-Kao Hao, Qinghua Wu. (2024). A Multi-population Integrated Approach for Capacitated Location Routing. arXiv preprint arXiv:2403.09361.  </li>
 <li>Pengfei He, Jin-Kao Hao, Qinghua Wu. <a href="https://leria-info.univ-angers.fr/%7Ejinkao.hao/papers/HeHaoWu2023Networks2.pdf">A hybrid genetic algorithm for the Hamiltonian p-median problem</a>. <i><a href="https://onlinelibrary.wiley.com/journal/10970037">Networks</a></i>. Accept.  </li>
